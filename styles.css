@@ -273,4 +273,60 @@ nav {
 .knowledge li {
  margin-bottom: 12px;
 }
+.extra {
+ background: #f8fafc;
+ text-align: center;
+ padding: 80px 20px;
+}
+
+
+.extra h2 {
+ font-size: 36px;
+}
+
+
+.extra p {
+ max-width: 600px;
+ margin: 20px auto;
+}
+
+
+.note {
+ display: block;
+ margin-top: 15px;
+ font-size: 14px;
+ color: #64748b;
+}
+.footer {
+ background: #020617;
+ color: #fff;
+ padding: 40px 0;
+}
+
+
+.footer-content {
+ display: flex;
+ justify-content: space-between;
+ align-items: center;
+}
+
+
+.social a {
+ margin-left: 5px;
+ color: #fff;
+ text-decoration: none;
+ width: min-content;
+ gap: 1px;
+ display: inline-flex;
+}
+
+
+footer p {
+ text-align: center;
+ margin-top: 20px;
+ font-size: 14px;
+ color: #94a3b8;
+}
+
+
 
