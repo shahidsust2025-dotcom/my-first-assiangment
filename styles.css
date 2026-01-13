@@ -144,3 +144,80 @@ nav {
  border-radius: 6px;
  cursor: pointer;
 }
+.notes {
+ padding: 100px 0;
+ background: #ffffff;
+ text-align: center;
+}
+.notes-container h2 {
+ font-size: 36px;
+ font-weight: 700;
+ color: #0f172a;
+ margin-bottom: 12px;
+}
+
+
+.notes-text {
+ max-width: 620px;
+ margin: 0 auto 70px;
+ font-size: 16px;
+ color: #64748b;
+ line-height: 1.6;
+}
+
+
+
+
+.card-container {
+ width: 90%;
+ max-width: 1200px;
+ margin: 0 auto;
+ display: grid;
+ grid-template-columns: repeat(4, 1fr);
+ gap: 32px;
+}
+
+
+
+
+.card {
+ background: #fcfcfc;
+ padding: 40px 28px;
+ border-radius: 12px;
+ box-shadow: 0 10px 40px rgba(0, 0, 0, 0.08);
+}
+
+
+
+
+.icon {
+ width: 56px;
+ height: 56px;
+ background: #f60e0e;
+ border-radius: 50%;
+ display: flex;
+ align-items: center;
+ justify-content: center;
+ margin: 0 auto 20px;
+}
+
+
+.icon img {
+ width: 24px;
+}
+
+
+.card h3 {
+ font-size: 18px;
+ font-weight: 600;
+ color: #0f172a;
+ margin-bottom: 10px;
+}
+
+
+.card p {
+ font-size: 15px;
+ color: #64748b;
+ line-height: 1.6;
+}
+
