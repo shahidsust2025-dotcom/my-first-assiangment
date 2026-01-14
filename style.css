@@ -49,7 +49,7 @@ nav {
 
 .banner {
   min-height: 90vh;
-  background-image: url("imagess/hero-bg.png");
+background: url(images/hero-bg.png);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
